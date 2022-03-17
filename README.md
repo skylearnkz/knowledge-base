@@ -74,3 +74,22 @@
     - Feature Branch
     - Gitflow
     - Forking
+- Software Architectures
+  - Blackboard
+  - Client-server (2-tier, 3-tier, n-tier, cloud computing exhibit this style)
+  - Component-based
+  - Data-centric
+  - Event-driven (or implicit invocation)
+  - Layered (or multilayered architecture)
+  - Microservices architecture
+  - Monolithic application
+  - Peer-to-peer (P2P)
+  - Pipes and filters
+  - Plug-ins
+  - Reactive architecture
+  - Representational state transfer (REST)
+  - Rule-based
+  - Service-oriented
+  - Shared nothing architecture
+  - Space-based architecture
+  - Serverless
