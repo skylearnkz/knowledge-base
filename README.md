@@ -1,2 +1,76 @@
-# knowledge-base
-Knowledge base about the world of programming, where to start and how to swim in the sea of IT among programmer-sharks
+# Knowledge Base
+- [Network Protocols](https://www.baeldung.com/cs/popular-network-protocols)
+- Database
+- Cloud Resources
+  - VM (Virtual Machine)
+  - VMSS (Virtual Machine Scale Sets)
+  - LB (Load Balancer)
+  - VPN (Virtual Private Network)
+  - DNS (Domain Name System)
+  - CPU (Central Processing Unit)
+  - GPU (Graphics Processing Unit)
+  - CLI (Command-Line Interface)
+  - CDN (Content Delivery Network)
+  - IAM (Identity Management)
+- Agile
+  - Methodologies
+    - Scrum
+    - Kanban
+    - Scrumban
+    - Lean
+    - Extreme Programming
+    - Waterfall
+    - Prince2
+    - PMI's PMBOK
+  - Agile Factsheets
+    - Scrum Master
+    - Product Owner
+    - Product Backlog
+    - Sprint Backlog
+    - Sprint Planning
+    - Sprint Review
+    - Daily Scrum
+    - Sprint Goals
+    - Vision Board
+    - Demo Day
+    - Retrospective
+    - Grooming Session
+- [Testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+  - Unit tests
+  - Integration tests
+  - Functional tests
+  - End-to-end tests
+  - Acceptance testing
+  - Performance testing
+  - Smoke testing
+- eCommerce
+  - MAP (Marketing Automation Platform)
+  - ERP (Enterprise Resource Planning)
+  - PIM (Product Information Management)
+  - AMS (Association Management System)
+  - CMS (Content Management System)
+  - CRM (Customer Relationship Management)
+- DevOps
+  - CI/CD (Continuous Integration and Continuous Delivery)
+  - Release
+  - Build Artifacts
+  - Deployment
+  - Docker
+  - Kubernetes
+- Automation
+  - BPA (Business Process Automation)
+  - RPA (Robotic Process Automation)
+  - SDA (Service Delivery Automation)
+- Web
+  - SPA (Single Page Applications)
+  - API (Application Programming Interface)
+  - Ajax (Asynchronous JavaScript)
+- [Software Design Patterns](https://refactoring.guru/design-patterns)
+- VCS (Version Control System)
+  - Git
+  - SVN
+  - Workflows
+    - Centralized
+    - Feature Branch
+    - Gitflow
+    - Forking
